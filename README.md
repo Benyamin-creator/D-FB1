@@ -18,7 +18,10 @@
 # First, create your dictionary with 
 any of the following options:
 
-# python WORDLISTER.py o python Dragon.py
+# 
+python WORDLISTER.py 
+
+python Dragon.py
 
 
 
