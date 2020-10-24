@@ -1,6 +1,6 @@
 # D-FB1
 
-It is a tool that allows you to hack passwords by brute force, it can be applied to five types of social networks such as: Twitter, GMAIL, Facebook and Instagram
+It is a tool that allows you to hack passwords by brute force, it can be applied to four types of social networks such as: Twitter, GMAIL, Facebook and Instagram
 
 # how to install
 
