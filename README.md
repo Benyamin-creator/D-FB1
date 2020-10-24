@@ -5,6 +5,7 @@
 # We clone the github repository with:
 
 # git clone https://github.com/Benyamin-creator/D-FB1
+
 # We enter the directory with:
  
 # cd D-FB1 
@@ -15,17 +16,17 @@
 
 # We execute with:
 
-# First, create your dictionary with 
-any of the following options:
+# First, create your dictionary with any of the following options:
 
 # 
+
 python WORDLISTER.py 
 
 python Dragon.py
 
+# now run the tool with:
 
-
-# bash Cobra-Team.sh
+bash Cobra-Team.sh
 
 # CODED By: Benyamin-creator(RED-SOCIAL)
 
