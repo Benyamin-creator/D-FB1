@@ -15,7 +15,12 @@
 
 # We execute with:
 
-# 
+# First, create your dictionary with 
+any of the following options:
+
+# python WORDLISTER.py o python Dragon.py
+
+
 
 # bash Cobra-Team.sh
 
