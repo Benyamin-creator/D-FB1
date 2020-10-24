@@ -15,7 +15,9 @@
 
 # We execute with:
 
-# python2 DICTIONARY-GENERATOR.py
+# 
+
+# bash Cobra-Team.sh
 
 # CODED By: Benyamin-creator(RED-SOCIAL)
 
